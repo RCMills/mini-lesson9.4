@@ -1,6 +1,8 @@
 # Header - README Template
 
-<img src="https://github.githubassets.com/images/modules/logos_page/octocat.png" alt="Github Logo - html" title="Github Logo - html">
+<p>
+All of these projects will be avaialble on GitHub <img src="https://github.githubassets.com/images/modules/logos_page/octocat.png" alt="Github Logo - html" title="Github Logo - html">
+</p>
 
 ## Table of Contents
 * [About The Project] (#about_the_project)
